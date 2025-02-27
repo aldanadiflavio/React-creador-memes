@@ -1,8 +1,4 @@
-# React + Vite
+# Creador de memes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se podrá crear memes con variedad de imagenes ya cargadas. Luego se podrán exportar las imagenes con la descripción de cada meme.
+Para ver el sitio ingresar al siguiente link: https://creando-memecitos.netlify.app/
